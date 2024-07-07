@@ -4,6 +4,8 @@
 
 This project analyzes the relationship between software package downloads, the revenue of the corresponding companies, and their stock prices. By examining these variables, we aim to uncover patterns and insights that can inform business decisions and investment strategies.
 
+Result could be found on my [Medium](https://medium.com/@k3232908/analyzing-the-relationship-between-python-package-downloads-revenue-and-stock-price-cd1171822fdb).
+
 ## Data Sources
 
 The data for this analysis was obtained from the following sources:
